@@ -11,9 +11,9 @@ aside {
     padding-left: .5rem;
     margin-left: .5rem;
     float: right;
-    box-shadow: inset 25px 0 25px -25px #29627e;
+    box-shadow: inset 25px 0 25px -25px #FFF07C;
     font-style: italic;
-    color: #679289;
+    color: #BF1363;
     font: bold calc(1em + 10 * (100vw - 120px) / 150) 'Dancing Script', cursive,
           fantasy;
     margin: 1%;
@@ -64,7 +64,7 @@ hr {
 }
 
 a:link {
-  color: #B5FFE9;
+  color: #BF1363;
 }
 
 .header-nav a::after {
@@ -94,6 +94,7 @@ a:link {
   top: 40px;
   position: relative;
   right: 100px;
+  border-radius: 10px;
 }
 .section-div>h1 {
   color: #EF6461;
