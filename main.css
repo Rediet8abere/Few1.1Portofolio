@@ -64,7 +64,7 @@ hr {
 }
 
 a:link {
-  color: green;
+  color: #B5FFE9;
 }
 
 .header-nav a::after {
@@ -133,7 +133,7 @@ section > p {
 }
 
 .grid-container > div {
-  background-color: #F4C095;
+  background-color: #C5E0D8;
   text-align: center;
   padding: 20px 0;
   font-size: 30px;
@@ -149,6 +149,9 @@ article > h2 {
 }
 
 article > p {
+  padding: 50px;
+  /* top: 200px; */
+  /* padding-right: 50px; */
   text-align: right;
   text-align: justify;
   text-indent: 30px;
@@ -159,6 +162,7 @@ article > p {
 }
 
 .article-pic {
+  padding-right: 50px;
   float: left;
   margin-left: 40px;
   top: -200px;
